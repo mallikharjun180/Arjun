@@ -15,6 +15,11 @@ public class Test26 {
 	{
 		System.out.println("git start");
 	}
+	static void git()
+	{
+		System.out.println("i am from github");
+	}
+
 
 	
 
