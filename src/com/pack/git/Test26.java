@@ -6,10 +6,16 @@ public class Test26 {
 	{
 		System.out.println("hello GitHub");
 		Test26.m1();
+		Test26.m2();
 	}
 	static void m1()
 	{
 		System.out.println("git");
+	}static void m2()
+	{
+		System.out.println("git start");
 	}
+
+	
 
 }
